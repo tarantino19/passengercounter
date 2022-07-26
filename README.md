@@ -1,3 +1,10 @@
 # passengercounter
 
-Basic javascript projectBasic javascript projectBasic javascript projectBasic javascript projectBasic javascript projectBasic javascript project
+Basic javascript learned:
+getElementById ()
+textContent
+innertext
+Strongs
+varilabls
+functions
+script tag
